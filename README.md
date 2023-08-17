@@ -4,4 +4,5 @@ The +tab button will only work if its made into a chrome extension or else you c
 
 Web screenshot: (https://github.com/Selina789/url-saver/assets/124658802/fa049213-c4b8-4989-9862-110de19e56e5)
 
-Extension screenshot: (https://github.com/Selina789/url-saver/assets/124658802/22213971-9d98-4661-a244-3a7aec1e07ac)
+Extension screenshot (onclick +tab): (https://github.com/Selina789/url-saver/assets/124658802/8ac54585-cf13-444b-821c-7a5431d20be8)
+
